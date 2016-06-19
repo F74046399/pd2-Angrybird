@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/life">
+        <file>img/life.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>img/Background.png</file>
+    </qresource>
+    <qresource prefix="/slingshot">
+        <file>img/slingshot.png</file>
+    </qresource>
+    <qresource prefix="/ground">
+        <file>img/ground.png</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>img/pig.png</file>
+    </qresource>
+    <qresource prefix="/barrier">
+        <file>img/log.png</file>
+        <file>img/logp.png</file>
+        <file>img/logb.png</file>
+    </qresource>
+    <qresource prefix="/bird">
+        <file>img/r.ico</file>
+        <file>img/blue.ico</file>
+        <file>img/while.ico</file>
+        <file>img/yellow.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>img/exit.png</file>
+        <file>img/restart.png</file>
+    </qresource>
+</RCC>
